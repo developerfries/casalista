@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -12,6 +12,7 @@
         <link href="../css/owl.carousel.css" rel="stylesheet" type="text/css" media="all" />
         <link href="../css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
         <link href="../css/theme.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />
         <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
 
     </head>
@@ -744,322 +745,1125 @@
             <!--end of modal-content-->
         </div>
         <!--end of modal-container-->
+       
         <div class="main-container transition--fade">
-           <section class="imagebg height-50" style="height: 400px;">
-                <div class="background-image-holder background--bottom">
-                    <img alt="image" src="img/header4.jpg" />
-                </div>
-                <div class="container pos-vertical-center">
-                   
-                </div>
-                <!--end container-->
-            </section>
-            <section class="masonry-contained">
-                <div class="container">
-                    <div class="row">
-                       <div class="feature feature-1 text-center boxed boxed--lg" style="margin-top: -128px;">            
-                           <h3>CRIAR LISTA</h3>
-                           <h1 style="color: #ef013f;letter-spacing: -3px;font-size: 3em;">CHÁ DE PANELA</h1>
-                           <p class="lead">Pillar is a team of passionate designers, <br>
-                             developers and artists working in print and digital. </p>
-						<div class="col-sm-12 text-center"></div>
-                        <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
-                           
-                            <form method="post">
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <label>LISTA COM PROPIEDADE</label> 
-                                         <div class="feature__right">                                  
-                                         	<h5 style="color: #ef013f;">ORGANIZADA POR:</h5>                                     
-                                          </div>
-                                      </div>
-                                    <div class="col-sm-6">
-                                       <div class="feature__left">
-                                         <img alt="avatar" src="../img/avatar-small-2.png" style="float: left;max-width: 19%;">
-                                     </div>
-                               <div class="feature__right" style="margin-right: 77px;">
-                                   <h6>PRESENTEADO POR</h6>
-                                   <h5 style="margin-top: -30px;">MAGGIE GREENE</h5>     
-                                </div>
+            <form method="post">
+                <section class="imagebg height-50" style="height: 400px;">
+                    <div class="background-image-holder background--bottom">
+                        <img alt="image" src="img/header4.jpg" />
+                    </div>
+                    <div class="container pos-vertical-center">
+
+                    </div>
+                    <!--end container-->
+                </section>
+                <section class="masonry-contained">
+                    <div class="container">
+                        <div class="row">
+                            <div class="feature feature-1 text-center boxed boxed--lg" style="margin-top: -128px;">
+                                <h3>CRIAR LISTA</h3>
+                                <h1 style="color: #ef013f;letter-spacing: -3px;font-size: 3em;">CHÁ DE PANELA</h1>
+                                <p class="lead">
+                                    Pillar is a team of passionate designers, <br>
+                                    developers and artists working in print and digital.
+                                </p>
+                                <div class="col-sm-12 text-center"></div>
+                                <div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0">
+                  
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <label>LISTA COM PROPIEDADE</label>
+                                            <div class="feature__right">
+                                                <h5 style="color: #ef013f;">ORGANIZADA POR:</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <div class="feature__left">
+                                                <img alt="avatar" src="../img/avatar-small-2.png" style="float: left;max-width: 19%;">
+                                            </div>
+                                            <div class="feature__right" style="margin-right: 77px;">
+                                                <h6>PRESENTEADO POR</h6>
+                                                <h5 style="margin-top: -30px;">MAGGIE GREENE</h5>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-sm-6">
+                                            <label>DIA DA FESTA</label>
+                                            <div class="feature__right">
+                                                <h5 style="color: #ef013f;">DATA DO EVENTO</h5>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6">
+                                            <input type="text" name="name" placeholder="04/11/2016" style="background-color: #f8f8f8;">
+                                        </div>
 
                                     </div>
-                                  
-                                     <div class="col-sm-6">
-                                        <label>DIA DA FESTA</label> 
-                                         <div class="feature__right">                                  
-                                   <h5 style="color: #ef013f;">DATA DO EVENTO</h5>                                     
-                                     </div>
-                                         </div>
-                                    <div class="col-sm-6">
-                                        <input type="text" name="name" placeholder="04/11/2016"style="background-color: #f8f8f8;">
 
+                                    <div class="col-sm-6">
+                                        <label>ESPERAMOS OS CONVIDADOS</label>
+                                        <div class="feature__right">
+                                            <h5 style="color: #ef013f;">NO ENDEREÇO:</h5>
+                                        </div>
                                     </div>
-                                  
-                                </div>                               
- 
                                     <div class="col-sm-6">
-                                        <label>ESPERAMOS OS CONVIDADOS</label> 
-                                         <div class="feature__right">                                  
-                                   <h5 style="color: #ef013f;">NO ENDEREÇO:</h5>                                     
-                                     </div>
-                                         </div>
-
-
-
-
-                                   <div class="col-sm-6">
-                                        <input type="search" name="name" placeholder="04/11/2018"style="background-color: #f8f8f8;">
-
-                                    </div>                            
-
-
+                                        <input type="search" name="name" placeholder="04/11/2018" style="background-color: #f8f8f8;">
+                                    </div>
                                     <div class="col-sm-6">
-                                        <label>PALAVRAS</label> 
-                                         <div class="feature__right">                                  
-                                   <h5 style="color: #ef013f;">DESCRIÇÃO DO EVENTO:</h5>                                     
-                                     </div>
-                                         </div>
-
-
-                                   <div class="col-sm-6">
-
-                                    <textarea class="validate-required" name="message" placeholder="Menssagem" rows="8" style="background-color: #f8f8f8;border-radius: 8px;"></textarea>
-
-                                    </div>                            
-
-
+                                        <label>PALAVRAS</label>
+                                        <div class="feature__right">
+                                            <h5 style="color: #ef013f;">DESCRIÇÃO DO EVENTO:</h5>
+                                        </div>
+                                    </div>
                                     <div class="col-sm-6">
-                                        <label>INCLUIR FOTO DA LISTA</label> 
-                                         <div class="feature__right">                                  
-                                   <h5 style="color: #ef013f;">FOTO DE PERFIL:</h5>                                     
-                                     </div>
-                                         </div>
-
-
-
-
-                                   <div class="col-sm-6">
+                                        <textarea class="validate-required" name="message" placeholder="Menssagem" rows="8" style="background-color: #f8f8f8;border-radius: 8px;"></textarea>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <label>INCLUIR FOTO DA LISTA</label>
+                                        <div class="feature__right">
+                                            <h5 style="color: #ef013f;">FOTO DE PERFIL:</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
                                         <div class="input-file">
-                                    <a class="btn btn--primary btn--sm btn--square" href="#">
-                                        <span class="btn__text">
-                                            ANEXAR AQUIVO
-                                        </span>
-                                    </a>
-                                    <input type="file">
-                                </div>
-
-                                    </div>                           
-
+                                            <a class="btn btn--primary btn--sm btn--square" href="#">
+                                                <span class="btn__text">
+                                                    ANEXAR AQUIVO
+                                                </span>
+                                            </a>
+                                            <input type="file">
+                                        </div>
+                                    </div>
                                     <div class="col-sm-6">
-                                        <label>INCLUIR </label> 
-                                         <div class="feature__right">                                  
-                                  <h5 style="color: #ef013f;">FOTO DE PORTADA</h5>                                     
-                                     </div>
-                                         </div>
-
-
-
-
-                                   <div class="col-sm-6">
-                                       <div class="input-file">
-                                    <a class="btn btn--primary btn--sm btn--square" href="#">
-                                        <span class="btn__text">
-                                           ANEXAR AQUIVO
-                                        </span>
-                                    </a>
-                                    <input type="file">
-                                </div>
-
-                                    </div>                            
-
-
-
-
-                                                          
-                            </form>
-
-
-
-                                                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        </div>
-
-              
-
-                            </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-             <section class="tabs-container tabs-5 text-center">
-
-                  <h4>ESCOLHA OS ITENS DENTRO DAS CATEGORIAS</h4>
-
-
-                <ul class="tabs">
-                    <li class="active">
-                        <div class="tab__title">
-                            <h6>LISTA COMPLETA</h6>
-                        </div>
-                        <div class="tab__content">
-                            <div class="container">
-                                <div class="row">
-
-<div class="col-sm-12">                                       
-
-
-                                         <div class="col-md-4" style="display: -webkit-box;">
-                           
-                              
+                                        <label>INCLUIR </label>
+                                        <div class="feature__right">
+                                            <h5 style="color: #ef013f;">FOTO DE PORTADA</h5>
+                                        </div>
                                     </div>
-
-
-
-
-
-
-                                </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    <li>
-                        <div class="tab__title">
-                            <h6>COZINHA</h6>
-                        </div>
-                        <div class="tab__content">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            Gamification investor focus facebook sales angel investor churn rate conversion beta accelerator infographic www.discoverartisans.com rockstar. Partner network partnership founders user experience assets www.discoverartisans.com angel investor. Return on investment beta market www.discoverartisans.com validation freemium conversion.
-                                        </p>
+                                    <div class="col-sm-6">
+                                        <div class="input-file">
+                                            <a class="btn btn--primary btn--sm btn--square" href="#">
+                                                <span class="btn__text">
+                                                    ANEXAR AQUIVO
+                                                </span>
+                                            </a>
+                                            <input type="file">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </li>
+                    </div>
+                </section>
+                <section class="tabs-container tabs-5 text-center">
+                    <h4>ESCOLHA OS ITENS DENTRO DAS CATEGORIAS</h4>
 
+                    <ul class="tabs">
+                        <li class="active">
+                            <div class="tab__title">
+                                <h6>LISTA COMPLETA</h6>
+                            </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">      
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+                                           
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+                                           
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
 
-                    <li>
-                        <div class="tab__title">
-                            <h6>CAMA</h6>
-                        </div>
-                        <div class="tab__content">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            Backing leverage incubator mass market strategy bandwidth innovator low hanging fruit success seed money. IPad monetization termsheet ownership beta product management www.discoverartisans.com success research & development. Early adopters termsheet venture client A/B testing pivot freemium innovator funding entrepreneur.
-                                        </p>
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
+                        </li>
+                        <li>
+                            <div class="tab__title">
+                                <h6>COZINHA</h6>
+                            </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
 
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
 
-                     <li>
-                        <div class="tab__title">
-                            <h6>MESA</h6>
-                        </div>
-                        <div class="tab__content">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            Backing leverage incubator mass market strategy bandwidth innovator low hanging fruit success seed money. IPad monetization termsheet ownership beta product management www.discoverartisans.com success research & development. Early adopters termsheet venture client A/B testing pivot freemium innovator funding entrepreneur.
-                                        </p>
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
+                        </li>
 
+                        <li>
+                            <div class="tab__title">
+                                <h6>CAMA</h6>
+                            </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
 
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
 
-                     <li>
-                        <div class="tab__title">
-                            <h6>BANHO</h6>
-                        </div>
-                        <div class="tab__content">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-sm-8 col-sm-offset-2">
-                                        <p>
-                                            Backing leverage incubator mass market strategy bandwidth innovator low hanging fruit success seed money. IPad monetization termsheet ownership beta product management www.discoverartisans.com success research & development. Early adopters termsheet venture client A/B testing pivot freemium innovator funding entrepreneur.
-                                        </p>
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-md-4" style="display: -webkit-box;">
+                                            <div class="input-checkbox">
+                                                <div class="inner"></div>
+                                                <input type="checkbox">
+                                                <span>Milhonarios</span>
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
+                        </li>
 
+                        <li>
+                            <div class="tab__title">
+                                <h6>MESA</h6>
+                            </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-8 col-sm-offset-2">
+                                            <p>
+                                                Backing leverage incubator mass market strategy bandwidth innovator low hanging fruit success seed money. IPad monetization termsheet ownership beta product management www.discoverartisans.com success research & development. Early adopters termsheet venture client A/B testing pivot freemium innovator funding entrepreneur.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
 
-                </ul>
+                        <li>
+                            <div class="tab__title">
+                                <h6>BANHO</h6>
+                            </div>
+                            <div class="tab__content">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-8 col-sm-offset-2">
+                                            <p>
+                                                Backing leverage incubator mass market strategy bandwidth innovator low hanging fruit success seed money. IPad monetization termsheet ownership beta product management www.discoverartisans.com success research & development. Early adopters termsheet venture client A/B testing pivot freemium innovator funding entrepreneur.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
 
+                    </ul>
 
+                </section>
+            </form>
+        </div>
 
-
-
-
-
-               
-
-
-
-
-
-
-
-
-
-
-            </section>
-
-
+   
 
 
 
